@@ -32,5 +32,3 @@ Here are some ideas to get you started:
   <img src="https://stats.justsong.cn/api/zhihu?username=luo-li-xi-zhi">
   <img src="https://stats.justsong.cn/api/github?username=AsanoSaki">
 </div>
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=AsanoSaki" /> </div>
