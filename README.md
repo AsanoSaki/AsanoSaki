@@ -43,18 +43,20 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
+<div align="center">
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=AsanoSaki&theme=github-compact&hide_border=true&area=true">
   <br/>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AsanoSaki&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=transparent&langs_count=8&card_width=320" />
-</p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=transparent&langs_count=8&card_width=320&hide_border=true" />
+</div>
 
 <div align="center">
-  <img src="https://stats.justsong.cn/api/csdn?id=m0_51755720">
-  <img src="https://stats.justsong.cn/api/leetcode?username=AsanoSaki">
-  <img src="https://stats.justsong.cn/api/zhihu?username=luo-li-xi-zhi">
   <img src="https://stats.justsong.cn/api/github?username=AsanoSaki">
+  <img src="https://stats.justsong.cn/api/csdn?id=m0_51755720">
+  <!--
+  <img src="https://stats.justsong.cn/api/leetcode?username=AsanoSaki&cn=true">
+  <img src="https://stats.justsong.cn/api/zhihu?username=luo-li-xi-zhi">
+  -->
 </div>
