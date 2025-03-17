@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://stats.justsong.cn/api/csdn?id=m0_51755720">
-  <img src="https://stats.justsong.cn/api/leetcode?username=AsanoSaki&cn=true">
+  <img src="https://stats.justsong.cn/api/leetcode?username=AsanoSaki">
   <img src="https://stats.justsong.cn/api/zhihu?username=luo-li-xi-zhi">
   <img src="https://stats.justsong.cn/api/github?username=AsanoSaki">
 </div>
