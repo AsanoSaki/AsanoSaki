@@ -10,7 +10,7 @@
 <h1 align="center"> <a href="https://github.com/AsanoSaki"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%console.log(%22Hello%2C%20World!%22);Welcome%20to%20my%20profile!&center=true&size=27"> </a> </h1>
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F776F2&center=true&vCenter=true&width=435&separator=%3C&lines=AsanoSaki+OvO+~~~%3CWelcome+to+my+profile!%3Cprint(%22Hello+World!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F776F2&width=435&separator=%3C&lines=AsanoSaki+OvO+~~~%3CWelcome+to+my+profile!%3Cprint(%22Hello+World!%22);)](https://git.io/typing-svg)
 
 <!--
 **AsanoSaki/asanosaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
