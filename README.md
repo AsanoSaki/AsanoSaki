@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/AsanoSaki?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 -->
 
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsanoSaki&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <!--
 <div align="center">
@@ -46,12 +48,8 @@ Here are some ideas to get you started:
   <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=AsanoSaki&theme=github-compact&hide_border=true&area=true">
   <br/>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=AsanoSaki&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <img align="center" width="450" src="https://streak-stats.demolab.com?user=AsanoSaki&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-  <br/>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsanoSaki&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AsanoSaki&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </p>
 
 <div align="center">
